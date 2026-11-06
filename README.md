@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Maiky Rayan 👋
 
-<!--
-**maikyrayan/maikyrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Civil Engineer | AI Application Developer (Python & AI Agents)**
 
-Here are some ideas to get you started:
+Brazilian Civil Engineer with experience in BIM, construction oversight, and contract management. Focused on combining engineering expertise, software development, and artificial intelligence to build practical solutions for real-world challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Work With
+- **AI & Software:** Python, LLMs, Agentic AI, OOP, and automation.
+- **Engineering:** BIM, construction oversight, contract management, and cost estimation.
+
+---
+
+### Featured Project
+- **[CivIA — Applied AI for Civil Engineering](https://github.com/maikyrayan/CivIA)**  
+  An independent project exploring AI-driven solutions for civil engineering workflows.
+
+---
+
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/maiky-rayan/) · [Email](mailto:maikyrayan@hotmail.com)
